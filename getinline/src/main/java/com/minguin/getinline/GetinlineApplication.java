@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GetinlineApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(GetinlineApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(GetinlineApplication.class, args);
+	}
 
 }
